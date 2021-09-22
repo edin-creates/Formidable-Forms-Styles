@@ -1,0 +1,19 @@
+/*icons*/
+.icon-base {
+  display: inline-block;
+  font: normal normal normal 14px/1;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.au-dollar{
+	content: url('/wp-content/uploads/2021/09/au-dollar-orange.svg');
+	height:65px;
+	width:65px;
+	padding:4px;
+	color:orange;
+	
+}
